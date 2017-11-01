@@ -1,12 +1,7 @@
-# react-native-ArrayTool
-封装一个实用的数组操作工具类
+/**
+ * Created by guangqiang on 2017/8/27.
+ */
 
-#前言
-> 在开发开源项目中由于大量的使用到数组相关的操作，但是js原生的数组语法有时候使用起来不是那么的随心所欲，于是就自己封装了一个常用的数组操作工具类。
-
-**工具源码，小伙伴们直接拷贝或者将`arrExtension.js`文件拖拽到工程即可**
-
-```
 /** 数组拓展工具类 **/
 
 const ArrayTool = {
@@ -193,4 +188,3 @@ const ArrayTool = {
 }
 
 export {ArrayTool}
-```
